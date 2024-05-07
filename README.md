@@ -9,3 +9,8 @@
 
 * https://datacarpentry.org/image-processing/
 
+conda env create --file environment.yml
+
+conda remove --name aqua-marina --all --yes
+
+conda info --envs

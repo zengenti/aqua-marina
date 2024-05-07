@@ -3,7 +3,8 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11
+  - imageio
   - ipykernel # required for jupyter notebook in VS Code
-#   - pip  # if you need more packages installed from pip 
-#   - pip:
-#     - foo
+  - ipympl
+  - matplotlib
+  - scikit-image

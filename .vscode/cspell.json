@@ -4,9 +4,11 @@
     "words": [
         "abcdefghijklmnopqrstuvwxyz",
         "charliermarsh",
+        "cmap",
         "devcontainer",
         "eamodio",
         "imread",
-        "imshow"
+        "imshow",
+        "skimage"
     ]
 }
