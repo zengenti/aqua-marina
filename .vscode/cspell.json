@@ -5,6 +5,8 @@
         "abcdefghijklmnopqrstuvwxyz",
         "charliermarsh",
         "devcontainer",
-        "eamodio"
+        "eamodio",
+        "imread",
+        "imshow"
     ]
 }
