@@ -19,6 +19,7 @@
 			"extensions": [
 				"charliermarsh.ruff",
 				"eamodio.gitlens",
+				"github.copilot",
 				"james-yu.latex-workshop",
 				"ms-python.black-formatter",
 				"ms-python.mypy-type-checker",
