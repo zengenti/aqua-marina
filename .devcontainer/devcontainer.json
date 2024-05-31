@@ -20,8 +20,8 @@
 				"charliermarsh.ruff",
 				"eamodio.gitlens",
 				"github.copilot",
-				"james-yu.latex-workshop",
 				"ms-python.black-formatter",
+				"ms-toolsai.jupyter",
 				"ms-python.mypy-type-checker",
 				"ms-python.python",
 				"streetsidesoftware.code-spell-checker"
