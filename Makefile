@@ -1,6 +1,9 @@
 # Consistent set of make tasks.
 .DEFAULT_GOAL:= help  # because it's is a safe task.
 
+active: # Activate the virtual environment.
+	conda activate aqua-marina
+
 clean: # Remove the virtual environment.
 	conda remove --name aqua-marina --all --yes
 
