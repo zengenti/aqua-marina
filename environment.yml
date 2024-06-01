@@ -8,3 +8,4 @@ dependencies:
   - ipympl
   - matplotlib
   - scikit-image
+  - ruff

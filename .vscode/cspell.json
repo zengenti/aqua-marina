@@ -10,6 +10,7 @@
         "imageio",
         "imread",
         "imshow",
+        "ipympl",
         "mypy",
         "skimage"
     ]
