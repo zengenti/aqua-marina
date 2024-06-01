@@ -13,13 +13,11 @@
 
 ```bash
 # To activate the environment:
-   conda activate aqua-marina
+    conda activate aqua-marina
 
 # To deactivate an active environment:
     conda deactivate
 
 # To list environments
     conda info --envs
-
-# to use Jupyter
 ```
