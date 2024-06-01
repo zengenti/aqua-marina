@@ -9,8 +9,15 @@
 
 * https://datacarpentry.org/image-processing/
 
-conda env create --file environment.yml
+## Notes
 
-conda remove --name aqua-marina --all --yes
+```bash
+# To activate the environment:
+    conda activate aqua-marina
 
-conda info --envs
+# To deactivate an active environment:
+    conda deactivate
+
+# To list environments
+    conda info --envs
+```
