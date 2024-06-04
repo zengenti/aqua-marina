@@ -7,11 +7,14 @@
         "cmap",
         "devcontainer",
         "eamodio",
+        "figsize",
         "imageio",
         "imread",
         "imshow",
         "ipympl",
         "mypy",
+        "ndarray",
+        "numpy",
         "skimage"
     ]
 }
