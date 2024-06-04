@@ -5,14 +5,15 @@ images.
 """
 
 import imageio.v3 as iio
-
 import ipympl
-from matplotlib import pyplot
 import numpy as np
 import skimage as ski
+from matplotlib import pyplot
 
+# Enable interactive mode
+pyplot.ion()
 
-eight = iio.imread(uri='../data/raw/training/eight.tif')
+eight = iio.imread(uri="./data/raw/training/eight.tif")
 print(type(eight))
 
 fig, ax = pyplot.subplots()
@@ -21,4 +22,11 @@ ax.imshow(eight)
 print(eight.shape)
 print(eight)
 
+# Display the image using matplotlib
+pyplot.imshow(eight)
+pyplot.show(block=False)
 
+
+# Display the image using matplotlib
+pyplot.imshow(eight)
+pyplot.show()
