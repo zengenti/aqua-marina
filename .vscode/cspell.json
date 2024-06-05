@@ -8,6 +8,7 @@
         "devcontainer",
         "eamodio",
         "figsize",
+        "GPSTAGS",
         "imageio",
         "immeta",
         "imread",
