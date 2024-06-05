@@ -11,6 +11,7 @@
         "imageio",
         "imread",
         "imshow",
+        "imwrite",
         "ipympl",
         "mypy",
         "ndarray",
