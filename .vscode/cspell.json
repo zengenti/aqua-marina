@@ -9,6 +9,7 @@
         "eamodio",
         "figsize",
         "imageio",
+        "immeta",
         "imread",
         "imshow",
         "imwrite",
